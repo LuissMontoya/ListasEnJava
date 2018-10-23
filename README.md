@@ -1,2 +1,2 @@
 # ListasEnJava
-listas, simples, dobles , circulares con uno y con dos aputadores
+listas, simples, dobles , circulares con uno y con dos apuntadores
